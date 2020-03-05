@@ -14,7 +14,7 @@ height=float(input("请输入您的身高(米m)："))
 weight=float(input("请输入您的体重（千克kg）："))
 
 
-bmi=weight/(weight*height)
+bmi=weight/(weight*weight)
 
 print("您的BMI指数喂："+str(bmi))
 
