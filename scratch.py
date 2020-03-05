@@ -10,11 +10,11 @@ print ('''根据身高，体重计算BMI指数''')
 
 #=================程序开始==================#
 #输入身高和体重
-height=float(input("请输入您的身高(米m)："))
+hight=float(input("请输入您的身高(米m)："))
 weight=float(input("请输入您的体重（千克kg）："))
 
 
-bmi=weight/(weight*weight)
+bmi=weight/(hight*hight)
 
 print("您的BMI指数喂："+str(bmi))
 
