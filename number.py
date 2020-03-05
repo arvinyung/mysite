@@ -1,5 +1,11 @@
 # -*- coding: UTF-8 -*-
 
+'''
+    @   功能：     根据身高，体重计算BMI指数
+    @   author：  yang
+    @   create：  2020-03-05
+'''
+
 for i in range(1, 5):
     for j in range(1, 5):
         for k in range(1, 5):
