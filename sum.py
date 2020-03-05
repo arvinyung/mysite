@@ -1,7 +1,7 @@
 # -*- coding: UTF-8 -*-
 
-# Filename : test.py
-# author by : www.runoob.com
+# Filename : sum.py
+# author date : 2020/03/04
 
 # 用户输入数字
 num1 = input('输入第一个数字：')
